@@ -9,7 +9,8 @@
 - [X] Pruebas unitarias
 - [X] Coverage
 - [X] Documentación API
-- Conexion con el otro micro para consulta de email y documento de identidad Con webclient
+- [X] Conexion con el otro micro para consulta de email y documento de identidad Con webclient
+- [ ] Manejo de excepciones
 
 ## Examples
 - json postman
